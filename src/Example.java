@@ -7,6 +7,9 @@ public class Example {
     public void Exampled(String na) {
         whoCares = na;
     }
+    public void Exampled2(String na) {
+        whoCares = na;
+    }
 
 
 }
