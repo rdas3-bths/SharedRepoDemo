@@ -11,7 +11,7 @@ public class Example {
         whoCares = na;
     }
 
-    public void uhhhhh() {
+    public void uhhhhhhhhhhh() {
         System.out.println("uhhhhhhhhh");
     }
 
