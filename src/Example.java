@@ -8,5 +8,9 @@ public class Example {
         whoCares = na;
     }
 
+    public void uhhhhh() {
+        System.out.println("uhhhhhhhhh");
+    }
+
 
 }
