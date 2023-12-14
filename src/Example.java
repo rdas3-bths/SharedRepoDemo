@@ -4,4 +4,9 @@ public class Example {
     public Example(String n) {
         whoCares = n;
     }
+    public void Exampled(String na) {
+        whoCares = na;
+    }
+
+
 }
